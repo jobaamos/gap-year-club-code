@@ -1,5 +1,5 @@
 #python program to convert temperature units
-a=int(input('what is the temperature'))
+a=eval(input('what is the temperature'))
 b=(input('what unit is the given value in'))
 g=(input('what unit do you want to change it to?'))
 if b==('celsius') and g==('fahrenheit'):

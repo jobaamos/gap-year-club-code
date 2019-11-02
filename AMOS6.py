@@ -1,0 +1,13 @@
+#python program to print the users bio
+a=str(input('what is your first name'))
+b=str(input('what is your last name'))
+c=str(input('what is your email address'))
+d=str(input('what is your user name'))
+e=str(input('what is your password'))
+f=str(input('what is your nick name'))
+print('your first name is'+a)
+print('your last name is'+b)
+print('your email address is'+c)
+print('your user name is'+d)
+print('your password is'+e)
+print('welcome back'+f)
